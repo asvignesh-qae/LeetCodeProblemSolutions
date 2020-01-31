@@ -1,7 +1,7 @@
 package leetCodePblms;
 
 public class ReverseInteger {
-	int rev;
+	int rev,no;
 	public int reverse(int x) {
 		/*int i_x =Integer.parseInt(x); 
         int j = i_x<0?i_x*(-1):i_x;*/
